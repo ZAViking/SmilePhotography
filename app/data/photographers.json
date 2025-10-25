@@ -1,0 +1,22 @@
+[
+  {
+    "name": "John Doe",
+    "slug": "john-doe",
+    "specialty": "Landscape Photography",
+    "location": "New York, USA",
+    "bio": "Award-winning landscape photographer with over 10 years of experience.",
+    "email": "john@example.com",
+    "profileImage": "/placeholder.jpg",
+    "gallery": ["/placeholder.jpg", "/placeholder.jpg"]
+  },
+  {
+    "name": "Jane Smith",
+    "slug": "jane-smith", 
+    "specialty": "Portrait Photography",
+    "location": "Los Angeles, USA",
+    "bio": "Creative portrait photographer specializing in fashion and editorial work.",
+    "email": "jane@example.com",
+    "profileImage": "/placeholder.jpg",
+    "gallery": ["/placeholder.jpg", "/placeholder.jpg"]
+  }
+]
